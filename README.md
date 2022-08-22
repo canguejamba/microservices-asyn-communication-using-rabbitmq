@@ -7,7 +7,7 @@ This codebase was created to demonstrate a fully fledged full-stack application 
 
 For more information on this project go to the [microservices'](https://github.com/canguejamba/microservices) repo.
 
-### microservices-asyn-communication-using-rabbitmq diagram
+### microservices diagram
 ![](/resources/screenshot.png)
 
 
