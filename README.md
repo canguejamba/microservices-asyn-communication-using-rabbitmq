@@ -5,9 +5,9 @@
 
 This codebase was created to demonstrate a fully fledged full-stack application built with Spring boot using event-driven including CRUD operations, authentication, pagination, and more.
 
-For more information on this project go to the [microservices'](https://github.com/canguejamba/microservices) repo.
+For more information on this project go to the [Microservices'](https://github.com/canguejamba/microservices) repo.
 
-### microservices diagram
+### Microservices diagram
 ![](/resources/screenshot.png)
 
 
