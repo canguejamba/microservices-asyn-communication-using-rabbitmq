@@ -13,6 +13,14 @@ For more information on this project go to the [Microservices'](https://github.c
 
 ### Getting started rabbitmq server
 
+Zipkin in action demo:
+
+![](/resources/zipkindp.png)
+
+Eureka server in action demo:
+
+![](/resources/eureka.png)
+
 Rabbitmq server in action demo:
 
 ![](/resources/rabbitmq1.png)
